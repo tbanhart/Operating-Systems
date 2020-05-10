@@ -1,3 +1,6 @@
 An important function of the operating system is to monitor how the computer is performing. The operating system checks the time
 the system takes to process requests and watches the general health of the computer. In cases where the system does not work as
 intended, this also means that the OS can provide information for troubleshooting issues caused by hardware or flaws in the code.
+
+Another function is to maintain security in the computer. The Operating System is buildt to monitor for threats that may be caused
+by viruses or other malware. This can help prevent data loss or privacy breaches from befalling the user.
