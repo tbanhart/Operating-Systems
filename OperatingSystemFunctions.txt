@@ -4,3 +4,6 @@ intended, this also means that the OS can provide information for troubleshootin
 
 Another function is to maintain security in the computer. The Operating System is buildt to monitor for threats that may be caused
 by viruses or other malware. This can help prevent data loss or privacy breaches from befalling the user.
+
+The Operating System must also manage all of the computer's memory. This includes designating memory to programs and ordering them
+in priority. The OS must also know how to allocate memory in order to not overtax the system.
