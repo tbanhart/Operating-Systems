@@ -1,0 +1,3 @@
+An important function of the operating system is to monitor how the computer is performing. The operating system checks the time
+the system takes to process requests and watches the general health of the computer. In cases where the system does not work as
+intended, this also means that the OS can provide information for troubleshooting issues caused by hardware or flaws in the code.
